@@ -1,0 +1,24 @@
+div{
+    margin:0.1px ;
+    padding:10px;
+    width: 200px;
+    height:100%;
+    border: 2px solid orange;  
+}
+
+.caja2{
+    margin:0.1px ;
+    padding:10px;
+    width: 200px;
+    height:100%;
+    border: 2px solid orange;   
+}
+
+.caja3{
+    margin:0.1px;
+    padding:10px;
+    width: 200px;
+    height:100%;
+    border: 2px solid orange;   
+    
+}
